@@ -1,7 +1,9 @@
 ## Hi, welcome to my github!
 > 路在脚下，行握双手，赢于执行。
 
-找工作中...
+当前状态：找工作中...
+
+
 [![Zerotower's github stats](https://github-readme-stats.vercel.app/api?username=zerotower69)](https://github.com/anuraghazra/github-readme-stats)
 ## my skills
 * 🔧 Vue2 & Vue3 & React
